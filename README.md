@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic designer.Currently, I am serving as a Core Member at Microsoft Learn Student Chapter- an open source community in campus.
 
-- 👩‍💻 I’m currently working on Backend Development
-- 🌱 I’m currently learning JavaScript and ReactJs
+- 👩‍💻 I’m currently working on React Projects
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Django Projects and Front End Web Development
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: aarushiabrol2510@gmail.com https://aarushi353.github.io/Portfolio/
+- 📫 How to reach me: aarushiabrol2510@gmail.com 
 - 😄 Pronouns: She/Her
 
 ### Connect with me:
