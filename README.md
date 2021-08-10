@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br />
 <img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" />
 
-I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic designer. Currently, I am serving as a Core Member at @Microsoft Learn Student Chapter- an open source community in campus.
+I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic designer. Currently, I am serving as a Core Member at @MicrosoftStudentChapter - an open source community in campus.
 
 - 👩‍💻 I’m currently working on React Projects
 - 🌱 I’m currently learning Data Structures and Algorithms
