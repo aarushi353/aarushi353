@@ -29,13 +29,13 @@ I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic d
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com 
 - 😄 Pronouns: She/Her
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="Aarushi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aarushi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aarushi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br />
 
 ### Languages and Tools
