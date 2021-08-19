@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic designer. Currently, I am serving as a Core Member at Microsoft Learn Student Chapter - an open source community in campus.
 
-- 👩‍💻 I’m currently working on ShoppersDelight.
+- 👩‍💻 I’m currently working on <a href="https://github.com/aarushi353/Shoppers-Delight">ShoppersDelight</a>
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Django Projects and Front End Web Development
 - 🤔 I’m looking for help with Data Structures and Algorithms
