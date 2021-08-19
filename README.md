@@ -24,7 +24,7 @@ I am Aarushi Abrol, a learning Full stack web developer, also a UI and Graphic d
 
 - 👩‍💻 I’m currently working on <a href="https://github.com/aarushi353/Shoppers-Delight" target="_blank">ShoppersDelight</a>
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Django Projects and Front End Web Development
+- 👯 I’m looking to collaborate on Front End Web Development Projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com 
