@@ -27,7 +27,7 @@ I am Aarushi Abrol. Currently I am serving as a core member at Microsoft Learn S
 - 👯 I’m looking to collaborate on Front End Web Development Projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: aarushiabrol2510@gmail.com https://aarushi353.github.io/Portfolio/
+- 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://aarushi353.github.io/Portfolio/
 - 😄 Pronouns: She/Her
 <!--
 ### Connect with me:
