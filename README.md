@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 I am Aarushi Abrol. Currently I am serving as a core member at Microsoft Learn Student Chapter - an open source community in campus. Apart from this I am a learning Full stack web developer, also a UI and Graphic designer. I enjoy taking up complex problems and converting them to creative interface designs. I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects.
 
-- 👩‍💻 I’m currently working on <a href="https://github.com/aarushi353/Shoppers-Delight" target="_blank">ShoppersDelight</a>
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Front End Web Development Projects
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on Front End and Backend Projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://aarushi353.github.io/Portfolio/
