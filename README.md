@@ -24,10 +24,10 @@ I am Aarushi Abrol. Currently I am serving as a Core Member at Developer Student
 
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Front End and Backend Projects
+- 🌱 I’m currently learning Data Structures and Algorithms and DRF.
+- 👯 I’m looking to collaborate on Front End (ReactJs) and Backend Projects (Django).
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://aarushi353.github.io/Portfolio/
 - 😄 Pronouns: She/Her
 <!--
