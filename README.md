@@ -24,7 +24,7 @@ I am Aarushi Abrol. Currently I am serving as a Core Member at Developer Student
 
 
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently exploring Machine Learning and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on MERN and UI Design Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2022 Goals: Contribute more to Open Source projects
