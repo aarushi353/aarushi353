@@ -23,12 +23,10 @@ Here are some ideas to get you started:
 I am Aarushi Abrol. Currently I am serving as a Core Member at Developer Student Club Thapar and Microsoft Learn Student Chapter . Apart from this I am a learning Full stack web developer, also a UI and Graphic designer. I enjoy taking up complex problems and converting them to creative interface designs. I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects.
 
 
-
-- 🌱 I’m currently exploring Machine Learning and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on MERN and UI Design Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://aarushi353.github.io/Portfolio/
+- 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://www.linkedin.com/in/aarushiabrol/
 - 😄 Pronouns: She/Her
 <!--
 ### Connect with me:
