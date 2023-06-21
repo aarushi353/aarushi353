@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <br />
 <img align="center" alt="GIF" src="https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif" />
 
-I am Aarushi Abrol. Currently I am serving as a Google DSC Lead at Thapar Institute of Engineering and Technology. Apart from this I am a learning Full stack web developer, also a UI and Graphic designer. I enjoy taking up complex problems and converting them to creative interface designs. I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects.
+I am Aarushi Abrol. Currently I am a Google DSC Lead at Thapar Institute of Engineering and Technology. Apart from this I am a learning Full stack web developer, also a UI and Graphic designer. I enjoy taking up complex problems and converting them to creative interface designs. I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects.
 
 
-- 👯 I’m looking to collaborate on MERN and UI Design Projects.
+- 👯 I’m looking to collaborate on any Full stack development project
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://www.linkedin.com/in/aarushiabrol/
 - 😄 Pronouns: She/Her
 <!--
