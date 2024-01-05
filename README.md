@@ -24,7 +24,7 @@ I am Aarushi Abrol. Currently I am a Google DSC Lead at Thapar Institute of Engi
 
 - 👯 I’m looking to collaborate on any Full stack development project
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://www.linkedin.com/in/aarushiabrol/
 - 😄 Pronouns: She/Her
 <!--
