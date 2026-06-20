@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aarushi Abrol
+# Hi there 👋, I'm Aarushi
 
 ### Backend Engineer | Java | Spring Boot | Distributed Systems | AI
 
