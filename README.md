@@ -23,7 +23,5 @@ Software Engineer at Airtel with 2+ years of experience building scalable backen
 * AI + Backend Applications
 * Open Source
 
-📫 **Email:** [aarushiabrol2510@gmail.com](mailto:aarushiabrol2510@gmail.com)
+📫 **Email:** [aarushiabrol86@gmail.com](mailto:aarushiabrol86@gmail.com)
 🔗 **LinkedIn:** linkedin.com/in/aarushiabrol
-
-*"Building scalable systems and intelligent applications."*
