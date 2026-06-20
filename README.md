@@ -1,43 +1,29 @@
+# Hi there 👋, I'm Aarushi Abrol
 
+### Backend Engineer | Java | Spring Boot | Distributed Systems | AI
 
-<!--
+Software Engineer at Airtel with 2+ years of experience building scalable backend applications and telecom workflow systems.
 
+💻 I primarily work with Java, Spring Boot, REST APIs, Microservices, SQL, and distributed systems.
 
-Here are some ideas to get you started:
+🚀 Currently exploring AI-powered backend applications, LLM integrations, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
 
-### Hi there 👋, I'm Aarushi
+**Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Cloud & Tools:** Docker, Git, Maven, GitHub Actions, Linux
+**AI:** Gemini API, OpenAI APIs, CrewAI
 
-<br />
+### Current Focus
 
-I am Aarushi Abrol. Currently I am a Google DSC Lead at Thapar Institute of Engineering and Technology. Apart from this I am a learning Full stack web developer, also a UI and Graphic designer. I enjoy taking up complex problems and converting them to creative interface designs. I am well inspired by coding  structures and logics and hence strive to code in a better and efficient way each time in any of the assigned projects.
+* Backend Engineering
+* System Design
+* Distributed Systems
+* AI + Backend Applications
+* Open Source
 
+📫 **Email:** [aarushiabrol2510@gmail.com](mailto:aarushiabrol2510@gmail.com)
+🔗 **LinkedIn:** linkedin.com/in/aarushiabrol
 
-- 👯 I’m looking to collaborate on any Full stack development project
-- 🤔 I’m looking for help with Data Structures and Algorithms
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: aarushiabrol2510@gmail.com <br> https://www.linkedin.com/in/aarushiabrol/
-- 😄 Pronouns: She/Her
-<!--
-### Connect with me:
-
-[<img align="left" alt="Aarushi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aarushi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aarushi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-<img width="500" height="300" alt="Aarushi Abrol's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=aarushi353&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-[twitter]: https://twitter.com/AbrolAarushi
-[instagram]: https://www.instagram.com/_aarushi.abrol/
-[linkedin]: https://www.linkedin.com/in/aarushiabrol/
-
+*"Building scalable systems and intelligent applications."*
