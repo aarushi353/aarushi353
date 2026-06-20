@@ -10,10 +10,10 @@ Software Engineer at Airtel with 2+ years of experience building scalable backen
 
 ### Tech Stack
 
-**Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA
-**Databases:** MySQL, PostgreSQL, MongoDB
-**Cloud & Tools:** Docker, Git, Maven, GitHub Actions, Linux
-**AI:** Gemini API, OpenAI APIs, CrewAI
+* **Backend:** Java, Spring Boot, REST APIs, Microservices, Hibernate, JPA
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Cloud & Tools:** Docker, Git, Maven, GitHub Actions, Linux
+* **AI:** Gemini API, OpenAI APIs, CrewAI
 
 ### Current Focus
 
